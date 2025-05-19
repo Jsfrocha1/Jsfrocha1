@@ -16,6 +16,6 @@
   ---
   
   ### ✍️ Random Dev Quote:
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://www.codewars.com/users/Jsfrocha1/badges/large?logo=false>" alt="Random Dev Quote" />
   
 </div>
