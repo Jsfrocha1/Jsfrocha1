@@ -14,8 +14,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsfrocha1&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
   ---
-  
-  ### ✍️ Random Dev Quote:
-  <img src="[https://www.codewars.com](https://github-readme-stats.vercel.app)/users/Jsfrocha1/badges/large?logo=false>" alt="Random Dev Quote" />
-  
 </div>
